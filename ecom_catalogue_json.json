@@ -1,0 +1,178 @@
+[
+  {
+    "id": "TSHIRT001",
+    "title": "Men's Classic Cotton Tee",
+    "link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/mens_classic_tee.png",
+    "description": "A comfortable and durable 100% organic cotton t-shirt, perfect for everyday wear. Features a classic crew neck and a modern, tailored fit.",
+    "price": 35.00,
+    "image_link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/mens_classic_tee.png",
+    "categories": ["Apparel", "Men's Fashion", "Tops"],
+    "inventory_quantity": 250,
+    "inventory_policy": 1
+  },
+  {
+    "id": "JEANS003",
+    "title": "Women's High-Waisted Skinny Jeans",
+    "link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/skinny_jeans.jpeg",
+    "description": "Flattering high-waisted skinny jeans made with stretch denim for all-day comfort and style. A versatile wardrobe essential.",
+    "price": 129.95,
+    "image_link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/skinny_jeans.jpeg",
+    "categories": ["Apparel", "Women's Fashion", "Denim"],
+    "inventory_quantity": 180,
+    "inventory_policy": 1
+  },
+  {
+    "id": "HOODIE05",
+    "title": "Unisex Classic Pullover Hoodie",
+    "link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/Hooded_Sweatshirt.png",
+    "description": "Stay warm in this ultra-soft fleece pullover hoodie. Features a double-lined hood and a front kangaroo pocket.",
+    "price": 89.00,
+    "image_link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/Hooded_Sweatshirt.png",
+    "categories": ["Apparel", "Unisex", "Hoodies & Sweatshirts"],
+    "inventory_quantity": 210,
+    "inventory_policy": 1
+  },
+  {
+    "id": "DRESS01",
+    "title": "Floral Print Linen Sundress",
+    "link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/linen_dress.png",
+    "description": "A light and airy sundress made from a breathable linen blend. Perfect for warm days, featuring adjustable straps and a midi length.",
+    "price": 140.00,
+    "image_link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/linen_dress.png",
+    "categories": ["Apparel", "Women's Fashion", "Dresses"],
+    "inventory_quantity": 25,
+    "inventory_policy": 1
+  },
+  {
+    "id": "BCKPCK05",
+    "title": "Canvas Commuter Backpack",
+    "link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/Canvas_Commuter_Backpack.png",
+    "description": "A stylish and durable canvas backpack with vegan leather accents. Includes a padded laptop sleeve and multiple pockets.",
+    "price": 115.00,
+    "image_link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/Canvas_Commuter_Backpack.png",
+    "categories": ["Accessories", "Bags"],
+    "inventory_quantity": 60,
+    "inventory_policy": 1
+  },
+  {
+    "id": "SNEAKER07",
+    "title": "Unisex Urban Runner Sneaker",
+    "link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/urban_runner.png",
+    "description": "A versatile sneaker combining performance and style. Features a breathable knit upper and a cushioned sole for all-day comfort.",
+    "price": 155.00,
+    "image_link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/urban_runner.png",
+    "categories": ["Footwear", "Sneakers", "Unisex"],
+    "inventory_quantity": 180,
+    "inventory_policy": 1
+  },
+  {
+    "id": "JACKET02",
+    "title": "Classic Denim Jacket",
+    "link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/denim_jacket.png",
+    "description": "The iconic, timeless denim jacket. Made with sturdy 12oz denim and features branded metal buttons. A must-have for any wardrobe.",
+    "price": 165.00,
+    "image_link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/denim_jacket.png",
+    "categories": ["Apparel", "Unisex", "Jackets & Coats"],
+    "inventory_quantity": 0,
+    "inventory_policy": 2
+  },
+  {
+    "id": "BELT01",
+    "title": "Classic Leather Belt",
+    "link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/leather_belt.png",
+    "description": "A genuine full-grain leather belt with a timeless silver buckle. The perfect finishing touch for any outfit.",
+    "price": 75.00,
+    "image_link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/leather_belt.png",
+    "categories": ["Accessories", "Belts"],
+    "inventory_quantity": 95,
+    "inventory_policy": 1
+  },
+  {
+    "id": "SUNHAT03",
+    "title": "Wide-Brim Straw Sun Hat",
+    "link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/straw_hat.png",
+    "description": "Stay protected from the sun in style with this elegant wide-brim straw hat, finished with a chic black ribbon.",
+    "price": 55.00,
+    "image_link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/straw_hat.png",
+    "categories": ["Accessories", "Hats"],
+    "inventory_quantity": 110,
+    "inventory_policy": 1
+  },
+  {
+    "id": "SOCKS01",
+    "title": "Athletic Crew Socks (3-Pack)",
+    "link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/crew_socks.jpeg",
+    "description": "A three-pack of our moisture-wicking athletic crew socks. Features a cushioned footbed and arch support for maximum comfort.",
+    "price": 25.00,
+    "image_link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/crew_socks.jpeg",
+    "categories": ["Apparel", "Socks"],
+    "inventory_quantity": 400,
+    "inventory_policy": 1
+  },
+  {
+    "id": "TRAIN01",
+    "title": "Classic Wooden Train Set",
+    "link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/trainset.png",
+    "description": "A beautifully crafted wooden train set perfect for imaginative play. Includes locomotive, cars, and wooden tracks for endless fun.",
+    "price": 89.95,
+    "image_link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/trainset.png",
+    "categories": ["Toys", "Educational", "Wooden Toys"],
+    "inventory_quantity": 45,
+    "inventory_policy": 1
+  },
+  {
+    "id": "MASCARA01",
+    "title": "Volumizing Black Mascara",
+    "link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/masacara.png",
+    "description": "Achieve dramatic, voluminous lashes with this long-lasting black mascara. Features a curved brush for maximum lift and definition.",
+    "price": 32.00,
+    "image_link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/masacara.png",
+    "categories": ["Health", "Make up", "Mascara"],
+    "inventory_quantity": 120,
+    "inventory_policy": 1
+  },
+  {
+    "id": "FOUNDATION01",
+    "title": "Full Coverage Liquid Foundation",
+    "link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/foundation.png",
+    "description": "A lightweight yet full-coverage liquid foundation that provides a flawless, natural finish. Available in multiple shades for all skin tones.",
+    "price": 45.00,
+    "image_link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/foundation.png",
+    "categories": ["Health", "Make up", "Foundation"],
+    "inventory_quantity": 85,
+    "inventory_policy": 1
+  },
+  {
+    "id": "SUNGLASSES01",
+    "title": "Classic Aviator Sunglasses",
+    "link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/sunglasses.png",
+    "description": "Timeless aviator sunglasses with UV400 protection lenses and lightweight metal frame. Perfect for both style and sun protection.",
+    "price": 110.00,
+    "image_link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/sunglasses.png",
+    "categories": ["Accessories", "Eyewear", "Sunglasses"],
+    "inventory_quantity": 75,
+    "inventory_policy": 1
+  },
+  {
+    "id": "KNITTOP01",
+    "title": "Vinh Knit Fitted Vest Top",
+    "link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/Knit_Top.png",
+    "description": "Who knew a vest could work this hard and look this good? This fitted knit vest comes with a V-neckline and gold button accents that add a subtle statement even the chill girls can handle. Crafted from a soft, comfortable knit that looks sharp enough for client meetings yet versatile enough to style off-duty.",
+    "price": 55.00,
+    "image_link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/Knit_Top.png",
+    "categories": ["Apparel", "Women's Fashion", "Tops"],
+    "inventory_quantity": 95,
+    "inventory_policy": 1
+  },
+  {
+    "id": "MIDAXI01",
+    "title": "Ling Belted Boat Neck Fit & Flare Midaxi Dress",
+    "link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/Midaxi_Dress.png",
+    "description": "The dress that closes deals and starts conversations. This reimagined bestseller combines the polish of the Ling Belted Tailored Vest with the ultra-flattering silhouette of the Sofi V-neck Fit & Flare Dress. Designed in a structured stretch fabric, it hugs you in all the right places while keeping you comfy through long days. The boat neckline adds an elegant touch, while the functional pockets and detachable belt bring that tailored finish you know and love.",
+    "price": 89.00,
+    "image_link": "https://raw.githubusercontent.com/tylerpilbo/klaviyo-artefacts/refs/heads/main/Midaxi_Dress.png",
+    "categories": ["Apparel", "Women's Fashion", "Dresses"],
+    "inventory_quantity": 60,
+    "inventory_policy": 1
+  }
+]
