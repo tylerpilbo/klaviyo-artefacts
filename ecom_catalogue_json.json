@@ -176,69 +176,69 @@
     "inventory_policy": 1
   },
   {
-    "id": "SKINCARE001",
-    "title": "Vitamin C Brightening Serum",
-    "link": "https://www.adorebeauty.com.au/skincare/serums-treatments/vitamin-c-brightening-serum",
-    "description": "A powerful vitamin C serum that brightens skin tone and reduces the appearance of dark spots. Formulated with 20% vitamin C and hyaluronic acid for maximum hydration and radiance.",
-    "price": 89.00,
-    "image_link": "https://cdn.adorebeauty.com.au/media/catalog/product/v/i/vitamin-c-brightening-serum.jpg",
-    "categories": ["Beauty", "Skincare", "Serums", "Adore"],
-    "inventory_quantity": 150,
-    "inventory_policy": 1
-  },
-  {
-    "id": "MAKEUP001",
-    "title": "Full Coverage Foundation SPF 30",
-    "link": "https://www.adorebeauty.com.au/makeup/foundation/full-coverage-foundation-spf",
-    "description": "A lightweight yet full-coverage foundation with SPF 30 protection. Provides a flawless, natural finish while protecting your skin from harmful UV rays. Available in 25 shades.",
-    "price": 65.00,
-    "image_link": "https://cdn.adorebeauty.com.au/media/catalog/product/f/u/full-coverage-foundation-spf30.jpg",
-    "categories": ["Beauty", "Makeup", "Foundation", "Adore"],
-    "inventory_quantity": 200,
-    "inventory_policy": 1
-  },
-  {
-    "id": "HAIRCARE001",
-    "title": "Repairing Hair Mask",
-    "link": "https://www.adorebeauty.com.au/haircare/hair-treatments/hair-masks/repairing-hair-mask",
-    "description": "Intensive repairing hair mask enriched with keratin and argan oil. Restores damaged hair, reduces breakage, and leaves hair silky smooth and manageable.",
-    "price": 45.00,
-    "image_link": "https://cdn.adorebeauty.com.au/media/catalog/product/r/e/repairing-hair-mask.jpg",
-    "categories": ["Beauty", "Haircare", "Hair Treatments", "Adore"],
-    "inventory_quantity": 120,
-    "inventory_policy": 1
-  },
-  {
-    "id": "FRAGRANCE001",
-    "title": "Eau de Parfum - Floral Bouquet",
-    "link": "https://www.adorebeauty.com.au/fragrance/womens-perfume/eau-de-parfum-for-her/floral-bouquet",
-    "description": "An elegant floral fragrance featuring notes of rose, jasmine, and peony. A sophisticated scent perfect for special occasions and everyday wear.",
-    "price": 125.00,
-    "image_link": "https://cdn.adorebeauty.com.au/media/catalog/product/f/l/floral-bouquet-perfume.jpg",
-    "categories": ["Beauty", "Fragrance", "Women's Perfume", "Adore"],
-    "inventory_quantity": 80,
-    "inventory_policy": 1
-  },
-  {
-    "id": "SKINCARE002",
-    "title": "Hydrating Face Moisturizer",
-    "link": "https://www.adorebeauty.com.au/skincare/hydrating-moisturisers/day-cream/hydrating-face-moisturizer",
-    "description": "A lightweight, hydrating moisturizer perfect for all skin types. Formulated with hyaluronic acid and ceramides to lock in moisture and strengthen the skin barrier.",
-    "price": 55.00,
-    "image_link": "https://cdn.adorebeauty.com.au/media/catalog/product/h/y/hydrating-face-moisturizer.jpg",
-    "categories": ["Beauty", "Skincare", "Moisturizers", "Adore"],
-    "inventory_quantity": 180,
-    "inventory_policy": 1
-  },
-  {
-    "id": "MAKEUP002",
-    "title": "Volumizing Mascara",
-    "link": "https://www.adorebeauty.com.au/makeup/mascara/volumising-thickening-mascara/volumizing-mascara",
-    "description": "Achieve dramatic, voluminous lashes with this long-lasting mascara. Features a curved brush for maximum lift and definition, with a waterproof formula that won't smudge.",
+    "id": "LANEIGE001",
+    "title": "Laneige Lip Sleeping Mask Berry",
+    "link": "https://www.adorebeauty.com.au/laneige/laneige-lip-sleeping-mask-berry.html",
+    "description": "A cult-favorite overnight lip mask that delivers intense hydration and antioxidants while you sleep, leaving lips soft and supple with a subtle berry scent.",
     "price": 38.00,
-    "image_link": "https://cdn.adorebeauty.com.au/media/catalog/product/v/o/volumizing-mascara.jpg",
-    "categories": ["Beauty", "Makeup", "Mascara", "Adore"],
-    "inventory_quantity": 160,
+    "image_link": "https://www.adorebeauty.com.au/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/l/a/laneige-lip-sleeping-mask-berry.jpg",
+    "categories": ["Beauty", "Skincare", "Lip Care", "Adore"],
+    "inventory_quantity": 50,
+    "inventory_policy": 1
+  },
+  {
+    "id": "COSRX001",
+    "title": "COSRX Advanced Snail 96 Mucin Power Essence",
+    "link": "https://www.adorebeauty.com.au/cosrx/cosrx-advanced-snail-96-mucin-power-essence.html",
+    "description": "A lightweight Korean beauty essence enriched with 96% snail mucin to hydrate, repair, and soothe skin, promoting a natural glow and improved elasticity.",
+    "price": 38.00,
+    "image_link": "https://www.adorebeauty.com.au/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/c/o/cosrx-advanced-snail-96-mucin-power-essence-100ml.jpg",
+    "categories": ["Beauty", "Skincare", "Serums", "Adore"],
+    "inventory_quantity": 40,
+    "inventory_policy": 1
+  },
+  {
+    "id": "ASPECT001",
+    "title": "Aspect Phytostat 9",
+    "link": "https://www.adorebeauty.com.au/aspect/aspect-phytostat-9.html",
+    "description": "A rich, emollient moisturizer designed to hydrate and nourish all skin types, addressing signs of aging and environmental damage for a more youthful complexion.",
+    "price": 95.00,
+    "image_link": "https://www.adorebeauty.com.au/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/s/aspect-phytostat-9.jpg",
+    "categories": ["Beauty", "Skincare", "Moisturizers", "Adore"],
+    "inventory_quantity": 30,
+    "inventory_policy": 1
+  },
+  {
+    "id": "ASAP001",
+    "title": "asap Super B Complex",
+    "link": "https://www.adorebeauty.com.au/asap/asap-super-b-complex.html",
+    "description": "A potent serum containing high concentrations of niacinamide (Vitamin B3) to boost collagen production, hydrate the skin, and improve texture.",
+    "price": 93.75,
+    "image_link": "https://www.adorebeauty.com.au/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/s/asap-super-b-complex.jpg",
+    "categories": ["Beauty", "Skincare", "Serums", "Adore"],
+    "inventory_quantity": 35,
+    "inventory_policy": 1
+  },
+  {
+    "id": "SKINCEUTICALS001",
+    "title": "SkinCeuticals C E Ferulic",
+    "link": "https://www.adorebeauty.com.au/skinceuticals/skinceuticals-c-e-ferulic.html",
+    "description": "A high-potency vitamin C serum that provides advanced environmental protection, improves the appearance of fine lines and wrinkles, and brightens the skin.",
+    "price": 249.00,
+    "image_link": "https://www.adorebeauty.com.au/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/s/k/skinceuticals-c-e-ferulic.jpg",
+    "categories": ["Beauty", "Skincare", "Serums", "Adore"],
+    "inventory_quantity": 20,
+    "inventory_policy": 1
+  },
+  {
+    "id": "ALPHAH001",
+    "title": "Alpha-H Liquid Gold",
+    "link": "https://www.adorebeauty.com.au/alpha-h/alpha-h-liquid-gold.html",
+    "description": "A powerful overnight treatment that resurfaces and revitalizes the skin, improving texture and tone for a smoother, more radiant complexion.",
+    "price": 76.95,
+    "image_link": "https://www.adorebeauty.com.au/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/l/alpha-h-liquid-gold-100ml.jpg",
+    "categories": ["Beauty", "Skincare", "Exfoliants", "Adore"],
+    "inventory_quantity": 25,
     "inventory_policy": 1
   }
 ]
