@@ -240,5 +240,48 @@
     "categories": ["Beauty", "Skincare", "Exfoliants", "Adore", "100ml"],
     "inventory_quantity": 25,
     "inventory_policy": 1
+  },
+  {
+    "id": "PA001",
+    "title": "Peter Rabbit Christmas 100% Cotton Relaxed Mid Short",
+    "link": "https://www.peteralexander.com.au/shop/en/peteralexander/peter-rabbit-christmas-100-cotton-relaxed-mid-short",
+    "description": "A comfortable 100% cotton relaxed mid-length short featuring Peter Rabbit Christmas design. Perfect for sleepwear with soft cotton fabric and festive holiday styling.",
+    "price": 29.95,
+    "image_link": "https://www.peteralexander.com.au/PJ/aurora/images/products/large/810090_multi_l.jpg",
+    "categories": ["Apparel", "Sleepwear", "PeterAlexander", "Shorts", "Christmas"],
+    "inventory_quantity": 85,
+    "inventory_policy": 1
+  },
+  {
+    "id": "PA002",
+    "title": "Paddington Shortie PJ Set",
+    "link": "https://www.peteralexander.com.au/shop/en/peteralexander/paddington-shortie-pj-set",
+    "description": "A charming Paddington Bear themed shortie pajama set featuring a comfortable top and matching shorts. Perfect for bedtime with adorable Paddington design.",
+    "price": 39.95,
+    "image_link": "https://www.peteralexander.com.au/PJ/aurora/images/products/large/816154_multi_l.jpg",
+    "categories": ["Apparel", "Sleepwear", "PeterAlexander", "Pajama Sets", "Kids"],
+    "inventory_quantity": 70,
+    "inventory_policy": 1
+  },
+  {
+    "id": "PA003",
+    "title": "Tartan 100% Cotton Babydoll Nightie",
+    "link": "https://www.peteralexander.com.au/shop/en/peteralexander/tartan-100-cotton-babydoll-nightie",
+    "description": "A classic tartan patterned babydoll nightie made from 100% cotton. Features a comfortable fit with traditional tartan design for elegant sleepwear.",
+    "price": 89.95,
+    "image_link": "https://www.peteralexander.com.au/PJ/aurora/images/products/large/910054_multi_l.jpg",
+    "categories": ["Apparel", "Sleepwear", "PeterAlexander", "Nightwear", "Tartan"],
+    "inventory_quantity": 45,
+    "inventory_policy": 1
+  },
+  {
+    "id": "PA004",
+    "title": "Penny Wonderdog Shortie PJ Set",
+    "link": "https://www.peteralexander.com.au/shop/en/peteralexander/penny-wonderdog-shortie-pj-set",
+    "description": "A fun Penny Wonderdog themed shortie pajama set featuring a playful top and matching shorts. Perfect for bedtime with adorable dog-themed design.",
+    "price": 69.95,
+    "image_link": "https://www.peteralexander.com.au/PJ/aurora/images/products/large/816759_multi_l.jpg",
+    "categories": ["Apparel", "Sleepwear", "PeterAlexander", "Pajama Sets", "Kids"],
+    "inventory_quantity": 55,
+    "inventory_policy": 1
   }
-]
