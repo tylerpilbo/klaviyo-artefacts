@@ -284,4 +284,49 @@
     "categories": ["Apparel", "Sleepwear", "PeterAlexander", "Pajama Sets", "Kids"],
     "inventory_quantity": 55,
     "inventory_policy": 1
+  },
+  {
+    "id": "PJ001",
+    "title": "Spinoza Pinstripe Taupe Brown Suit",
+    "link": "https://peterjacksons.com/products/spinoza-pinstripe-taupe-brown-suit",
+    "description": "Crafted in Italy from 100% Australian Merino Wool by Marzotto, the Spinoza Suit presents a refined taupe pinstripe in a structured, modern cut. Designed with a peak lapel and angled flap pockets, it delivers timeless tailoring with contemporary ease. Works equally well for summer weddings or formal office wear.",
+    "price": 599.00,
+    "image_link": "https://peterjacksons.com/cdn/shop/files/mens-suit-grey-wool-SU25-R04-9.webp?v=1756339645&width=1100",
+    "categories": ["Apparel", "Men's Fashion", "Suits", "PeterJackson"],
+    "inventory_quantity": 35,
+    "inventory_policy": 1
+  },
+  {
+    "id": "PJ002",
+    "title": "Milan Ivory Twill Shirt",
+    "link": "https://peterjacksons.com/products/milan-ivory-twill-shirt",
+    "description": "A well-seasoned staple of formal and work wear, this textured twill shirt is the perfect blank canvas for all your summer ensembles. Tightly woven strands of Egyptian cotton create a lightly ribbed surface, offering a richer, deeper texture without drawing focus from the rest of your outfit.",
+    "price": 99.95,
+    "image_link": "https://peterjacksons.com/cdn/shop/files/milan-ivory-twill-shirt-peter-jackson-menswear.webp?v=1747890417&width=1200",
+    "categories": ["Apparel", "Men's Fashion", "Shirts", "PeterJackson"],
+    "inventory_quantity": 60,
+    "inventory_policy": 1
+  },
+  {
+    "id": "BT001",
+    "title": "White Ceramic Oil Burner - Medium",
+    "link": "https://essentials.banyantree.com/products/white-ceramic-oil-burner-medium",
+    "description": "Create a romantic and relaxing ambience by dripping your favourite essential oil onto this elegant White Ceramic Oil Burner. Made from lead-free ceramic with celadon glaze finishing and elegant blue crackle details. Handmade with a unique Banyan Tree design that projects beautiful patterns when lit with a tea light.",
+    "price": 48.90,
+    "image_link": "https://essentials.banyantree.com/cdn/shop/files/BanyanTreeEssentialsWhiteCeramicOilBurner-MediumM15-01628packshot2G.jpg?v=1712544027&width=1100",
+    "categories": ["Home & Living", "Aromatherapy", "Oil Burners", "BanyanTree"],
+    "inventory_quantity": 40,
+    "inventory_policy": 1
+  },
+  {
+    "id": "BT002",
+    "title": "Lavender and Bergamot Sleep Enhancer 90ml",
+    "link": "https://essentials.banyantree.com/products/lavender-bergamot-sleep-enhancer-90ml",
+    "description": "A calming pillow and linen spray formulated to promote restful sleep. This blend combines the soothing properties of lavender with the uplifting essence of bergamot to help create a tranquil atmosphere. Spritz on your pillow and bed linens before sleep for a peaceful night's rest.",
+    "price": 36.90,
+    "image_link": "https://essentials.banyantree.com/cdn/shop/files/16-02332_c9e507e4-9e7b-40c1-845d-5883a6c6c83d.jpg?v=1697588375&width=1100",
+    "categories": ["Health & Wellness", "Aromatherapy", "Sleep Aids", "BanyanTree"],
+    "inventory_quantity": 75,
+    "inventory_policy": 1
   }
+]
