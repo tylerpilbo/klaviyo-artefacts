@@ -1,0 +1,112 @@
+[
+  {
+    "id": "CRG-DEMO-W-001",
+    "title": "European Flax Relaxed Linen Shirt",
+    "link": "https://www.countryroad.com.au/product/60315400-100",
+    "description": "Cut from breathable European flax linen with a soft washed finish for everyday ease. Relaxed through the body with a neat collar, curved hem, and mother-of-pearl buttons. Layer under knitwear in cooler months or wear on its own when the weather warms. Cold gentle machine wash; wash with similar colours; line dry in shade.",
+    "price": 159,
+    "image_link": "https://www-commerce.countryroad.com.au/productimages_display/MAGNIFY/1/141776_669695_450615.jpg",
+    "categories": ["woman", "clothing", "shirts-and-tops", "linen"],
+    "inventory_quantity": 34,
+    "inventory_policy": 1
+  },
+  {
+    "id": "CRG-DEMO-W-002",
+    "title": "Organic Cotton Crew Neck Tee",
+    "link": "https://www.countryroad.com.au/product/60314547-100",
+    "description": "An everyday crew tee in GOTS-certified organic cotton jersey with a smooth hand-feel and resilient ribbed neckline. Designed for a regular fit through the shoulders and easy movement at the waist. Ideal as a base layer or worn solo with denim. Machine wash cold with mild detergent; tumble dry low or reshape and line dry.",
+    "price": 79.95,
+    "image_link": "https://www-commerce.countryroad.com.au/productimages_display/MAGNIFY/1/141698_669268_450153.jpg",
+    "categories": ["woman", "clothing", "t-shirts", "organic-cotton"],
+    "inventory_quantity": 126,
+    "inventory_policy": 1
+  },
+  {
+    "id": "CRG-DEMO-W-003",
+    "title": "Cashmere Merino Rib Scarf",
+    "link": "https://www.countryroad.com.au/product/60317147-31",
+    "description": "A lightweight rib-knit scarf blended from responsibly sourced cashmere and merino for warmth without bulk. Long enough to loop twice or drape once for a clean silhouette. Finished with rolled edges to reduce pilling over time. Dry clean recommended; store folded with cedar or breathable bag between seasons.",
+    "price": 119,
+    "image_link": "https://www-commerce.countryroad.com.au/productimages_display/MAGNIFY/1/143933_681233_459207.jpg",
+    "categories": ["woman", "accessories", "scarves", "cashmere"],
+    "inventory_quantity": 58,
+    "inventory_policy": 1
+  },
+  {
+    "id": "CRG-DEMO-W-004",
+    "title": "Double-Faced Wool Blend Coat",
+    "link": "https://www.countryroad.com.au/product/60317024-203",
+    "description": "A tailored mid-length coat in a double-faced wool blend with clean internal seams and a concealed placket for a refined profile. Slightly dropped shoulder eases layering over knitwear; welt pockets sit high for a flattering line. Fully lined body; sleeve lining aids dressing over long sleeves. Dry clean only; steam to refresh between wears.",
+    "price": 449,
+    "image_link": "https://www-commerce.countryroad.com.au/productimages_display/MAGNIFY/2/143424_678597_457177.jpg",
+    "categories": ["woman", "clothing", "coats-and-jackets", "wool"],
+    "inventory_quantity": 11,
+    "inventory_policy": 1
+  },
+  {
+    "id": "CRG-DEMO-W-005",
+    "title": "Italian Leather Mini Crossbody",
+    "link": "https://www.countryroad.com.au/product/60315146-290",
+    "description": "Compact crossbody in full-grain Italian leather with a natural grain that deepens with wear. Adjustable strap converts from shoulder to crossbody; interior slip pocket fits most phones and a slim card wallet. Brass-tone hardware with magnetic flap closure for quick access in-store or travel. Store stuffed when not in use; condition leather seasonally; avoid prolonged rain saturation.",
+    "price": 299,
+    "image_link": "https://www-commerce.countryroad.com.au/productimages_display/MAGNIFY/2/143527_679124_456582.jpg",
+    "categories": ["woman", "bags", "leather-bags", "accessories"],
+    "inventory_quantity": 19,
+    "inventory_policy": 1
+  },
+  {
+    "id": "CRG-DEMO-M-001",
+    "title": "Regular Fit Oxford Shirt",
+    "link": "https://www.countryroad.com.au/product/60299858-4155",
+    "description": "Classic Oxford weave in breathable cotton with a brushed hand-feel and a regular fit through chest and sleeve. Button-down collar, rounded barrel cuffs, and a slightly longer tail that stays tucked. Works with chinos for the office or denim on weekends. Warm machine wash; warm iron; may shrink slightly on first wash—buy true to size.",
+    "price": 109,
+    "image_link": "https://www-commerce.countryroad.com.au/productimages_display/MAGNIFY/1/131512_617161_412679.jpg",
+    "categories": ["man", "clothing", "shirts", "cotton"],
+    "inventory_quantity": 72,
+    "inventory_policy": 1
+  },
+  {
+    "id": "CRG-DEMO-M-002",
+    "title": "Australian Merino Crew Knit",
+    "link": "https://www.countryroad.com.au/product/60316308-3936",
+    "description": "Mid-weight crew-neck jumper spun from Australian merino wool for natural temperature regulation. Ribbed neck, cuffs, and hem hold shape after repeat wear. Clean shoulder line suits layering under a blazer or wearing solo. Hand wash in wool detergent or wool cycle; dry flat away from direct heat; reshape while damp.",
+    "price": 189,
+    "image_link": "https://www-commerce.countryroad.com.au/productimages_display/MAGNIFY/1/144399_683176_460839.jpg",
+    "categories": ["man", "clothing", "knitwear", "merino"],
+    "inventory_quantity": 44,
+    "inventory_policy": 1
+  },
+  {
+    "id": "CRG-DEMO-M-003",
+    "title": "Slim Stretch Chino",
+    "link": "https://www.countryroad.com.au/product/60242780-225",
+    "description": "Slim-leg chino in cotton with a touch of stretch for ease through the seat and knee. Garment-dyed for subtle colour variation; zip fly with internal security button. Front slash pockets and double-welt back pockets with button-through closure. Machine wash inside out; warm iron; tumble dry low to reduce creasing.",
+    "price": 129,
+    "image_link": "https://www-commerce.countryroad.com.au/productimages_display/MAGNIFY/1/106635_495379_322072.jpg",
+    "categories": ["man", "clothing", "pants", "chinos"],
+    "inventory_quantity": 89,
+    "inventory_policy": 1
+  },
+  {
+    "id": "CRG-DEMO-H-001",
+    "title": "European Linen Duvet Cover Set — Queen",
+    "link": "https://www.countryroad.com.au/product/60295152-115",
+    "description": "Queen duvet cover and two pillowcases in garment-washed European linen for a relaxed drape and breathable sleep. Coconut button closure along the foot; internal corner ties keep your insert centred. Linen softens with laundering and regulates temperature year-round. Wash separately before first use; cold gentle cycle; line dry or tumble dry low; warm iron if desired.",
+    "price": 279,
+    "image_link": "https://www-commerce.countryroad.com.au/productimages_display/MAGNIFY/1/128068_603710_402919.jpg",
+    "categories": ["home", "bedroom", "bedding", "linen"],
+    "inventory_quantity": 23,
+    "inventory_policy": 1
+  },
+  {
+    "id": "CRG-DEMO-H-002",
+    "title": "Reactive Glaze Stoneware Dinner Plate (Set of 4)",
+    "link": "https://www.countryroad.com.au/product/60315795-115",
+    "description": "Set of four dinner plates in stoneware with a reactive glaze that creates gentle variation plate to plate. Microwave and dishwasher safe for everyday meals; stackable rim profile saves cupboard space. Designed to mix with matching bowls and side plates from the same range. Avoid sudden temperature shocks; allow to cool before refrigerating hot food on the plate.",
+    "price": 89.95,
+    "image_link": "https://www-commerce.countryroad.com.au/productimages_display/MAGNIFY/2/143316_678134_456343.jpg",
+    "categories": ["home", "dining", "tableware", "stoneware"],
+    "inventory_quantity": 67,
+    "inventory_policy": 1
+  }
+]
